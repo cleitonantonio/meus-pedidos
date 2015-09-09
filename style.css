@@ -1,0 +1,95 @@
+/* CSS Document */
+
+html{
+	background:#fffff9;
+	}
+
+body{
+	margin:0 auto;
+	width:80%;
+	
+}
+
+.centro{
+	height:650px;
+	float:left;
+ 	width:100%;
+	
+	border-radius: 5px;
+}
+
+.cabecalho{
+	background:#0192f6;
+	background-size:contain;
+	background-repeat:no-repeat;
+ 	width:100%;
+	
+	}
+.formulario{
+	margin-top:10px;
+	}
+
+.nome,.email{
+	width:40%;
+	
+	}	
+	
+.nome-resp,.email-resp{
+	margin-top:0.5%;
+	border:none;
+	color:red;
+	width:40%;
+	margin-left:5%;
+	}		
+span,.titulo{
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	}
+
+.opcoes{
+	margin-left:2%;
+	}
+		
+	
+.escuro,.claro{
+	width:100%;
+	}	
+	
+.claro{
+	background:#ccc;
+	}	
+
+.cadastrar{
+	position:relative;
+	float:right;
+	cursor:pointer;
+	font-size:12px;
+	background:#090;
+	border:none;
+	border-radius:3px;
+	margin-right:2%;
+	padding:1%;
+	color:#fff;
+	margin-top:1%;
+		}
+.cadastrar:hover{
+	background:#0192f6;
+	
+	}	
+	
+	
+.rodape{
+	
+	background:url(../img/rodape.png);
+	background-size:contain;
+	background-repeat:no-repeat;
+	background-position:center;
+	text-align:center;
+	height:30px;
+	margin-top:1.5%;
+	float:left;
+ 	width:100%;
+	
+	
+	}	
